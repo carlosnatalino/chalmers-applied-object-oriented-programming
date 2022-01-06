@@ -1,0 +1,31 @@
+{
+    "name": "chalmers-applied-object-oriented-programming",
+    "displayName": "Chalmers Applied Object-Oriented Programming",
+    "publisher": "CarlosNatalino",
+    "description": "An extension pack with all the VS Code extensions needed for the EEN060/EEN065 courses.",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/carlosnatalino/chalmers-applied-object-oriented-programming"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-python.anaconda-extension-pack", 
+        "ms-python.python", 
+        "ms-python.vscode-pylance", 
+        "ms-toolsai.jupyter", 
+        "ms-toolsai.jupyter-keymap", 
+        "ms-toolsai.jupyter-renderers", 
+        "ms-vscode.powershell", 
+        "ms-vsliveshare.vsliveshare", 
+        "ms-vsliveshare.vsliveshare-audio", 
+        "ms-vsliveshare.vsliveshare-pack", 
+        "github.vscode-pull-request-github",
+        "matangover.mypy"
+    ]
+}

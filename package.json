@@ -27,13 +27,13 @@
         "ms-toolsai.jupyter-renderers", 
         "ms-vscode.powershell", 
         "ms-vsliveshare.vsliveshare", 
-        "ms-vsliveshare.vsliveshare-audio", 
         "ms-vsliveshare.vsliveshare-pack", 
         "github.vscode-pull-request-github",
         "formulahendry.auto-rename-tag",
         "formulahendry.auto-close-tag",
-        "mkaufman.htmlhint",
+        "HTMLHint.vscode-htmlhint",
         "yzhang.markdown-all-in-one",
-        "njpwerner.autodocstring"
+        "njpwerner.autodocstring",
+        "bierner.markdown-mermaid"
     ]
 }

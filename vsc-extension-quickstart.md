@@ -15,6 +15,14 @@
 * You can relaunch the extension from the debug toolbar after making changes to the files listed above.
 * You can also reload (`Ctrl+R` or `Cmd+R` on Mac) the VS Code window with your extension to load your changes.
 
+## Build your extension
+
+Provided that you have installed `vsce` with `npm install -g vsce`, you can run:
+
+```bash
+vsce package
+```
+
 ## Install your extension
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
